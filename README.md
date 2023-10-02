@@ -1,3 +1,3 @@
 # unit-converter
-THIS IS A SIMPLE PROJECT WRITTEN IN JAVA TO CONVERT A GIVEN VALUE IN ONE UNIT (LIKE mil|in|inch|ft|foot|feet|yd|yard|mi|mile) TO REQUESTED UNIT.
-I HAVE PRIMARILY WORKED ON WRITING THE CODE AS WELL AS 16 TESTCASES WITH A CODE COVERAGE OF 99.1% AS PART OF MY CURRICULUM.
+This is a simple project written in Java to convert a given value in one unit (LIKE mil|in|inch|ft|foot|feet|yd|yard|mi|mile) to requested unit.
+I have primarily worked on writing the code as well as writing 16 testcases with a code coverage of 99.1% as part of my curriculum.
